@@ -116,4 +116,4 @@ MySQL 8 · Power BI Desktop (DAX, Power Query) · Python 3 (pandas, numpy) · Cl
 ## Autor
 
 **Nízar El Ouarma Sorribas** — Supply Chain & Data Analyst, Barcelona
-LinkedIn: `<pega aquí la URL de tu perfil>` · GitHub: [@nixxx10](https://github.com/nixxx10)
+LinkedIn: `<https://www.linkedin.com/in/n%C3%ADzar-el-ouarma-sorribas/>` · GitHub: [@nixxx10](https://github.com/nixxx10)
