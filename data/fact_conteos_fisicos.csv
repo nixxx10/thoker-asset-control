@@ -1,0 +1,277 @@
+﻿fecha_conteo,sku,stock_teorico,stock_fisico,discrepancia_uds,discrepancia_valor,causa_raiz,estado_conciliacion
+2025-03-31,PA-101,0,0,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,CP-107,114,114,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,MP-105,627,627,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,MP-104,524,524,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,MP-109,443,427,-16,-245.44,Error de picking,Ajustado en ERP
+2025-03-31,CP-113,77,77,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,CP-119,155,149,-6,-4643.4,Rotura en manipulación,Ajustado en ERP
+2025-03-31,SP-102,75,75,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,CP-102,143,143,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,SA-100,21,21,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,CP-110,154,142,-12,-10081.56,Error de picking,Ajustado en ERP
+2025-03-31,CP-121,202,202,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,MP-113,290,290,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,SA-109,25,25,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,SA-106,17,17,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,CP-100,165,155,-10,-2997.8,Error de picking,Ajustado en ERP
+2025-03-31,MP-101,334,334,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,PA-100,2,2,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,CP-109,118,118,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,SA-105,20,20,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,CP-117,206,189,-17,-9001.84,Ubicación equivocada,Ajustado en ERP
+2025-03-31,CP-112,138,138,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,SP-103,63,63,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,MP-108,513,513,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,CP-116,195,195,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,CP-104,262,262,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,CP-114,263,263,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,SA-111,25,25,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,CP-111,203,203,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,CP-105,198,198,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,SP-111,53,53,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,MP-112,575,575,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,SP-101,40,40,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,SP-109,63,63,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,SP-108,42,42,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,SP-104,74,74,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,PA-104,2,1,-1,-64039.32,Consumo sin vale,Ajustado en ERP
+2025-03-31,MP-110,424,424,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,CP-106,89,89,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,SA-101,28,27,-1,-3977.46,Error de recepción,Ajustado en ERP
+2025-03-31,SA-104,17,17,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,CP-101,197,187,-10,-3982.8,Ubicación equivocada,Ajustado en ERP
+2025-03-31,CP-103,143,143,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,CP-108,183,183,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,CP-118,102,102,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-03-31,CP-115,148,148,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-06-30,CP-118,132,132,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-06-30,SA-101,34,35,1,3977.46,Consumo sin vale,Ajustado en ERP
+2025-06-30,CP-111,174,174,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-06-30,SP-110,27,27,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-06-30,CP-108,141,141,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-06-30,CP-120,262,262,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-06-30,SA-105,24,24,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-06-30,SP-108,42,38,-4,-5273.6,Merma no registrada,Ajustado en ERP
+2025-06-30,PA-101,0,0,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-06-30,SP-101,52,52,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-06-30,CP-105,180,167,-13,-5342.22,Ubicación equivocada,Ajustado en ERP
+2025-06-30,MP-113,340,329,-11,-948.2,Consumo sin vale,Ajustado en ERP
+2025-06-30,SA-110,43,43,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-06-30,CP-101,207,206,-1,-398.28,Merma no registrada,Ajustado en ERP
+2025-06-30,SP-111,59,59,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-06-30,MP-108,405,417,12,151.2,Rotura en manipulación,Ajustado en ERP
+2025-06-30,MP-111,887,848,-39,-534.69,Error de recepción,Ajustado en ERP
+2025-06-30,MP-101,409,409,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-06-30,SA-103,30,33,3,7571.52,Consumo sin vale,Ajustado en ERP
+2025-06-30,SP-102,85,85,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-06-30,SP-100,45,45,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-06-30,MP-110,333,333,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-06-30,SA-104,19,19,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-06-30,SA-111,25,25,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-06-30,CP-110,153,153,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-06-30,CP-121,151,151,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-06-30,SP-107,59,59,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-06-30,CP-117,164,164,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-06-30,SA-100,27,27,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-06-30,SA-109,23,23,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-06-30,CP-116,206,206,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-06-30,MP-107,380,349,-31,-3580.19,Error de recepción,Ajustado en ERP
+2025-06-30,SA-102,32,32,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-06-30,SP-105,60,60,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-06-30,CP-115,156,156,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-06-30,MP-104,370,351,-19,-368.79,Merma no registrada,Ajustado en ERP
+2025-06-30,CP-104,206,206,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-06-30,CP-113,84,84,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-06-30,CP-107,108,108,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-06-30,SP-109,89,89,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-06-30,CP-103,145,145,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-06-30,CP-112,109,109,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-06-30,MP-102,288,305,17,1854.53,Error de recepción,Ajustado en ERP
+2025-06-30,MP-103,668,622,-46,-1322.04,Ubicación equivocada,Ajustado en ERP
+2025-06-30,CP-106,75,79,4,3053.76,Ubicación equivocada,Ajustado en ERP
+2025-06-30,CP-119,184,184,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-09-30,MP-100,646,697,51,3128.34,Consumo sin vale,Ajustado en ERP
+2025-09-30,PA-102,1,1,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-09-30,CP-109,159,159,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-09-30,CP-118,150,150,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-09-30,SA-106,16,16,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-09-30,CP-107,94,94,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-09-30,SA-107,37,37,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-09-30,MP-101,497,497,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-09-30,CP-116,136,135,-1,-573.33,Ubicación equivocada,Ajustado en ERP
+2025-09-30,CP-106,90,85,-5,-3817.2,Consumo sin vale,Ajustado en ERP
+2025-09-30,PA-103,0,0,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-09-30,SA-110,38,38,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-09-30,CP-111,151,151,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-09-30,SP-107,76,76,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-09-30,PA-101,0,0,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-09-30,CP-119,142,142,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-09-30,CP-114,261,261,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-09-30,SP-111,43,43,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-09-30,CP-112,123,127,4,677.56,Rotura en manipulación,Ajustado en ERP
+2025-09-30,CP-100,159,159,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-09-30,MP-112,507,507,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-09-30,CP-108,137,144,7,3168.76,Ubicación equivocada,Ajustado en ERP
+2025-09-30,SA-111,31,31,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-09-30,MP-111,841,841,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-09-30,MP-109,389,360,-29,-444.86,Ubicación equivocada,Ajustado en ERP
+2025-09-30,MP-110,372,372,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-09-30,CP-115,201,201,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-09-30,SP-109,84,84,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-09-30,CP-103,203,219,16,656.96,Error de recepción,Ajustado en ERP
+2025-09-30,SP-103,82,82,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-09-30,CP-117,199,199,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-09-30,MP-102,402,398,-4,-436.36,Merma no registrada,Ajustado en ERP
+2025-09-30,SA-102,28,27,-1,-2743.83,Rotura en manipulación,Ajustado en ERP
+2025-09-30,MP-106,356,356,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-09-30,CP-121,166,166,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-09-30,SA-105,27,27,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-09-30,PA-100,2,2,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-09-30,SA-104,21,20,-1,-3963.74,Error de recepción,Ajustado en ERP
+2025-09-30,SA-108,31,30,-1,-1743.99,Rotura en manipulación,Ajustado en ERP
+2025-09-30,CP-110,127,127,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-09-30,CP-101,160,160,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-09-30,CP-104,192,207,15,6914.55,Error de picking,Ajustado en ERP
+2025-09-30,CP-113,76,76,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-09-30,MP-103,515,515,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-09-30,SA-109,20,19,-1,-4511.27,Merma no registrada,Ajustado en ERP
+2025-09-30,MP-113,374,374,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,MP-102,372,372,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,SA-105,26,26,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,CP-106,67,66,-1,-763.44,Error de picking,Ajustado en ERP
+2025-12-31,CP-119,130,130,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,CP-107,109,109,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,SP-105,54,54,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,CP-110,130,122,-8,-6721.04,Error de recepción,Ajustado en ERP
+2025-12-31,SP-110,24,23,-1,-630.48,Error de recepción,Ajustado en ERP
+2025-12-31,SA-102,26,24,-2,-5487.66,Ubicación equivocada,Ajustado en ERP
+2025-12-31,SA-104,22,22,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,MP-100,466,464,-2,-122.68,Ubicación equivocada,Ajustado en ERP
+2025-12-31,MP-107,457,457,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,CP-118,126,126,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,SA-107,37,35,-2,-5334.08,Error de recepción,Ajustado en ERP
+2025-12-31,MP-110,381,381,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,PA-101,0,0,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,SP-109,86,86,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,CP-103,165,165,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,SP-111,43,43,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,SA-100,26,26,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,SP-101,44,44,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,SA-101,37,37,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,SA-111,31,31,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,MP-111,755,741,-14,-191.94,Error de picking,Ajustado en ERP
+2025-12-31,CP-116,201,201,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,MP-104,398,398,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,CP-105,211,211,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,SA-106,15,15,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,SP-108,40,40,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,MP-108,457,494,37,466.2,Error de picking,Ajustado en ERP
+2025-12-31,SP-106,53,49,-4,-5056.76,Error de picking,Ajustado en ERP
+2025-12-31,CP-109,135,135,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,CP-111,228,228,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,CP-117,198,198,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,CP-100,145,145,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,MP-113,359,359,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,SP-100,42,42,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,CP-112,154,154,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,MP-103,533,533,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,CP-102,149,149,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,SP-104,98,98,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,MP-109,482,458,-24,-368.16,Consumo sin vale,Ajustado en ERP
+2025-12-31,SP-107,72,72,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,CP-101,192,192,0,0.0,Sin discrepancia,Ajustado en ERP
+2025-12-31,CP-113,60,55,-5,-794.3,Error de recepción,Ajustado en ERP
+2025-12-31,PA-100,2,2,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,MP-106,401,401,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,SA-107,33,31,-2,-5334.08,Ubicación equivocada,Ajustado en ERP
+2026-03-31,MP-101,511,511,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,CP-109,139,139,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,CP-112,104,102,-2,-338.78,Merma no registrada,Ajustado en ERP
+2026-03-31,SA-104,24,24,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,CP-103,205,205,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,MP-113,383,383,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,SP-108,35,35,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,SA-100,21,20,-1,-5585.85,Consumo sin vale,Ajustado en ERP
+2026-03-31,CP-115,146,146,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,CP-104,274,274,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,CP-113,90,90,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,PA-100,3,3,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,PA-101,0,0,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,SP-106,44,45,1,1264.19,Error de picking,Ajustado en ERP
+2026-03-31,PA-103,0,0,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,MP-109,343,343,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,CP-117,183,183,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,CP-101,187,187,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,CP-107,105,101,-4,-1269.36,Error de recepción,Ajustado en ERP
+2026-03-31,SP-105,45,42,-3,-1453.35,Consumo sin vale,Ajustado en ERP
+2026-03-31,CP-121,178,178,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,SA-105,18,16,-2,-6023.06,Rotura en manipulación,Ajustado en ERP
+2026-03-31,CP-114,233,245,12,575.52,Rotura en manipulación,Ajustado en ERP
+2026-03-31,CP-100,168,168,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,SA-110,35,35,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,CP-110,176,179,3,2520.39,Error de picking,Ajustado en ERP
+2026-03-31,CP-106,74,74,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,MP-108,468,437,-31,-390.6,Consumo sin vale,Ajustado en ERP
+2026-03-31,MP-111,762,762,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,CP-120,288,288,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,MP-102,313,313,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,SA-103,38,38,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,SP-101,43,45,2,485.5,Rotura en manipulación,Ajustado en ERP
+2026-03-31,CP-118,127,127,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,MP-110,463,463,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,CP-111,209,209,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,MP-104,350,350,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,SA-109,24,24,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,PA-104,2,2,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,SA-102,31,31,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,SP-103,75,75,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,MP-112,464,496,32,1633.92,Error de picking,Ajustado en ERP
+2026-03-31,SP-109,61,61,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-03-31,SP-110,25,25,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-06-30,PA-101,0,0,0,0.0,Error de recepción,Ajustado en ERP
+2026-06-30,SA-110,34,34,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-06-30,SP-104,68,64,-4,-531.0,Rotura en manipulación,Pendiente investigación
+2026-06-30,CP-106,86,86,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-06-30,MP-102,417,417,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-06-30,MP-110,454,454,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-06-30,MP-104,466,466,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-06-30,SP-107,78,78,0,0.0,Sin discrepancia,Pendiente investigación
+2026-06-30,SA-107,30,28,-2,-5334.08,Error de picking,Pendiente investigación
+2026-06-30,CP-117,207,207,0,0.0,Sin discrepancia,Pendiente investigación
+2026-06-30,CP-112,130,130,0,0.0,Sin discrepancia,Pendiente investigación
+2026-06-30,SA-105,18,18,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-06-30,MP-101,498,495,-3,-250.65,Error de recepción,Pendiente investigación
+2026-06-30,SA-111,31,30,-1,-3928.54,Error de recepción,Pendiente investigación
+2026-06-30,CP-114,256,256,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-06-30,SP-105,44,42,-2,-968.9,Ubicación equivocada,Ajustado en ERP
+2026-06-30,SP-111,49,45,-4,-4420.44,Error de picking,Pendiente investigación
+2026-06-30,SP-108,39,39,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-06-30,MP-103,567,567,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-06-30,SA-103,31,31,0,0.0,Sin discrepancia,Pendiente investigación
+2026-06-30,MP-100,593,565,-28,-1717.52,Ubicación equivocada,Ajustado en ERP
+2026-06-30,MP-109,405,405,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-06-30,MP-105,535,535,0,0.0,Sin discrepancia,Pendiente investigación
+2026-06-30,MP-107,398,392,-6,-692.94,Consumo sin vale,Pendiente investigación
+2026-06-30,CP-111,200,200,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-06-30,CP-120,279,279,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-06-30,SP-100,42,42,0,0.0,Sin discrepancia,Pendiente investigación
+2026-06-30,CP-105,226,243,17,6985.98,Rotura en manipulación,Pendiente investigación
+2026-06-30,SA-106,18,18,0,0.0,Sin discrepancia,Pendiente investigación
+2026-06-30,CP-110,167,176,9,7561.17,Error de recepción,Ajustado en ERP
+2026-06-30,CP-118,141,138,-3,-2311.53,Error de recepción,Pendiente investigación
+2026-06-30,SP-102,73,73,0,0.0,Sin discrepancia,Pendiente investigación
+2026-06-30,SA-108,32,32,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-06-30,CP-115,199,185,-14,-936.6,Ubicación equivocada,Ajustado en ERP
+2026-06-30,CP-107,86,85,-1,-317.34,Consumo sin vale,Pendiente investigación
+2026-06-30,MP-112,458,458,0,0.0,Sin discrepancia,Pendiente investigación
+2026-06-30,PA-100,3,3,0,0.0,Sin discrepancia,Pendiente investigación
+2026-06-30,PA-103,0,0,0,0.0,Sin discrepancia,Pendiente investigación
+2026-06-30,SA-109,17,16,-1,-4511.27,Rotura en manipulación,Pendiente investigación
+2026-06-30,CP-101,221,221,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-06-30,CP-102,156,156,0,0.0,Sin discrepancia,Pendiente investigación
+2026-06-30,MP-111,817,817,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-06-30,CP-116,166,171,5,2866.65,Merma no registrada,Ajustado en ERP
+2026-06-30,PA-104,2,2,0,0.0,Sin discrepancia,Ajustado en ERP
+2026-06-30,CP-103,206,195,-11,-451.66,Rotura en manipulación,Ajustado en ERP
+2026-06-30,SA-100,30,30,0,0.0,Sin discrepancia,Pendiente investigación

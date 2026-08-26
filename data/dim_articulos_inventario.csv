@@ -1,0 +1,66 @@
+﻿sku,descripcion,categoria,coste_estandar,lead_time_dias,proveedor,stock_inicial_ene25,stock_teorico_actual,demanda_media_mensual,stock_seguridad,punto_pedido
+MP-100,Perfil aluminio 40x40,Materia prima,61.34,17,Interno (producción),370,600,264.9,75,225
+MP-101,Chapa acero S235,Materia prima,83.55,29,ElectroParts EU,449,470,102.1,49,148
+MP-102,Cable AWG16,Materia prima,109.09,25,ElectroParts EU,424,409,199.4,83,249
+MP-103,Filamento PA12,Materia prima,28.74,25,ElectroParts EU,506,617,178.9,75,224
+MP-104,Resina epoxi,Materia prima,19.41,19,RoboSupply DE,441,500,218.4,69,207
+MP-105,Tornillería M6 inox,Materia prima,115.0,22,AsiaComp Ltd,538,720,199.5,73,219
+MP-106,Guía lineal 600mm,Materia prima,56.49,18,Sumtec BCN,439,467,86.7,26,78
+MP-107,Correa GT3,Materia prima,115.49,7,AsiaComp Ltd,386,467,125.7,15,44
+MP-108,Rodamiento 6204,Materia prima,12.6,9,Sumtec BCN,396,469,90.7,14,41
+MP-109,Grasa NLGI-2,Materia prima,15.34,12,Interno (producción),332,451,187.0,37,112
+MP-110,Tubo neumático 8mm,Materia prima,65.8,17,AsiaComp Ltd,471,475,231.4,66,197
+MP-111,Pintura RAL7016,Materia prima,13.71,14,Interno (producción),552,813,308.2,72,216
+MP-112,Cinta LED 24V,Materia prima,51.06,9,AsiaComp Ltd,535,548,288.1,43,129
+MP-113,Junta tórica kit,Materia prima,86.2,8,RoboSupply DE,442,359,210.1,28,84
+CP-100,Servomotor 750W,Componente,299.78,23,RoboSupply DE,140,170,80.5,31,93
+CP-101,Driver EtherCAT,Componente,398.28,32,Sumtec BCN,210,219,32.3,17,51
+CP-102,Cámara industrial 5MP,Componente,136.38,14,RoboSupply DE,125,146,55.7,13,39
+CP-103,Lente 8mm,Componente,41.06,53,Sumtec BCN,161,203,31.6,28,84
+CP-104,PLC compacto,Componente,460.97,37,Sumtec BCN,209,257,55.4,34,102
+CP-105,Fuente 48V 20A,Componente,410.94,29,MecanoCat,161,247,88.7,43,129
+CP-106,Pinza eléctrica 2 dedos,Componente,763.44,49,MecanoCat,132,88,69.6,57,171
+CP-107,Ventosa Ø40,Componente,317.34,25,MecanoCat,147,106,54.9,23,69
+CP-108,Encoder absoluto,Componente,452.68,25,Interno (producción),183,196,34.8,14,43
+CP-109,PC industrial,Componente,236.3,45,AsiaComp Ltd,135,148,37.1,28,84
+CP-110,Switch gestionado 8p,Componente,840.13,29,RoboSupply DE,188,162,49.5,24,72
+CP-111,Sensor LiDAR 2D,Componente,436.26,16,Interno (producción),166,216,88.4,24,71
+CP-112,Batería LiFePO4 48V,Componente,169.39,46,MecanoCat,155,144,36.4,28,84
+CP-113,Cargador inductivo,Componente,158.86,16,Sumtec BCN,145,86,64.6,17,51
+CP-114,HMI 10'',Componente,47.96,56,Interno (producción),206,242,82.3,77,231
+CP-115,Relé seguridad,Componente,66.9,22,Sumtec BCN,161,185,71.9,26,79
+CP-116,Escáner 3D compacto,Componente,573.33,19,RoboSupply DE,197,192,35.6,11,34
+CP-117,Motor rueda AMR,Componente,529.52,25,ElectroParts EU,166,214,58.8,24,73
+CP-118,Chasis mecanizado,Componente,770.51,41,RoboSupply DE,129,144,36.9,25,75
+CP-119,Tarjeta GPU edge,Componente,773.9,14,MecanoCat,166,183,69.4,16,48
+CP-120,Antena 5G industrial,Componente,179.96,42,Interno (producción),173,320,74.5,52,156
+CP-121,Botonera emergencia,Componente,775.72,49,ElectroParts EU,168,193,61.1,50,150
+SA-100,Brazo 6DOF ensamblado,Semi-acabado,5585.85,13,MecanoCat,41,28,8.7,2,6
+SA-101,Cabezal picking premontado,Semi-acabado,3977.46,16,Interno (producción),43,36,12.3,3,10
+SA-102,Torreta visión calibrada,Semi-acabado,2743.83,24,AsiaComp Ltd,40,31,12.2,5,15
+SA-103,Base AMR con drivetrain,Semi-acabado,2523.84,22,MecanoCat,36,36,17.9,7,20
+SA-104,Armario eléctrico cableado,Semi-acabado,3963.74,21,ElectroParts EU,35,24,18.2,6,19
+SA-105,Célula seguridad premontada,Semi-acabado,3011.53,13,MecanoCat,37,25,6.5,1,4
+SA-106,Kit garra alimentaria,Semi-acabado,1298.35,14,Interno (producción),30,20,15.7,4,11
+SA-107,Módulo cinta 2m,Semi-acabado,2667.04,10,RoboSupply DE,41,35,12.8,2,6
+SA-108,Bastidor Sort 300,Semi-acabado,1743.99,10,MecanoCat,41,40,11.7,2,6
+SA-109,Pack baterías validado,Semi-acabado,4511.27,20,ElectroParts EU,29,25,9.3,3,9
+SA-110,Columna elevación,Semi-acabado,2517.48,21,Sumtec BCN,42,40,20.3,7,21
+SA-111,Conjunto sensórica QC,Semi-acabado,3928.54,23,ElectroParts EU,41,35,11.3,4,13
+PA-100,TK-Pick 100 (FG),Producto acabado,79677.4,31,Interno (producción),8,3,4.5,2,7
+PA-101,TK-Pick 200X (FG),Producto acabado,147250.74,30,Interno (producción),11,0,4.3,2,6
+PA-102,TK-Sort 300 (FG),Producto acabado,124397.0,32,Interno (producción),7,1,4.8,3,8
+PA-103,TK-Move 50 (FG),Producto acabado,183988.26,33,Interno (producción),6,0,2.7,1,4
+PA-104,TK-Vision QC (FG),Producto acabado,64039.32,30,Interno (producción),8,3,4.2,2,6
+SP-100,Ventosa recambio,Spare / Repuesto,1490.04,26,MecanoCat,71,59,16.5,7,21
+SP-101,Correa recambio,Spare / Repuesto,242.75,25,Interno (producción),62,55,15.5,6,19
+SP-102,Filtro vacío,Spare / Repuesto,1327.75,20,MecanoCat,87,82,30.6,10,30
+SP-103,Fusibles pack,Spare / Repuesto,955.38,13,ElectroParts EU,58,77,36.3,8,24
+SP-104,Teclado servicio,Spare / Repuesto,132.75,21,MecanoCat,59,95,38.6,14,41
+SP-105,Rueda AMR recambio,Spare / Repuesto,484.45,18,MecanoCat,74,58,16.3,5,15
+SP-106,Cámara recambio,Spare / Repuesto,1264.19,13,Sumtec BCN,48,62,23.5,5,15
+SP-107,Driver recambio,Spare / Repuesto,917.83,12,ElectroParts EU,78,76,31.5,6,19
+SP-108,Pinza dedos recambio,Spare / Repuesto,1318.4,34,ElectroParts EU,63,47,20.6,12,35
+SP-109,Cable troncal 10m,Spare / Repuesto,939.51,13,MecanoCat,89,86,24.1,5,15
+SP-110,SSD industrial,Spare / Repuesto,630.48,31,AsiaComp Ltd,77,33,45.3,23,70
+SP-111,Kit juntas,Spare / Repuesto,1105.11,32,MecanoCat,50,54,23.0,12,37

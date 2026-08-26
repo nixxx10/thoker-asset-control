@@ -1,0 +1,6 @@
+﻿model_id,modelo,familia,coste_unitario,vida_util_meses,valor_residual_pct
+M1,TK-Pick 100,Brazo de picking,95000,72,0.05
+M2,TK-Pick 200X,Brazo de picking,140000,72,0.05
+M3,TK-Sort 300,Célula de clasificación,185000,84,0.05
+M4,TK-Move 50,Robot móvil (AMR),62000,60,0.1
+M5,TK-Vision QC,Inspección visual,78000,60,0.05

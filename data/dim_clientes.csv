@@ -1,0 +1,15 @@
+﻿client_id,cliente,sector,ciudad,pais,lat,lon,inicio_contrato,sla_tier
+C01,Iberia Retail Logistics,Retail / Logística,Zaragoza,España,41.6488,-0.8891,2023-06-01,Oro
+C02,MedFood Processing,Alimentación,Valencia,España,39.4699,-0.3763,2023-09-15,Plata
+C03,EcoWaste Iberia,Gestión de residuos,Madrid,España,40.4168,-3.7038,2024-01-10,Oro
+C04,CatPack Manufacturing,Manufactura,Terrassa,España,41.561,2.0089,2024-02-20,Bronce
+C05,Lisboa Fulfilment Hub,Retail / Logística,Lisboa,Portugal,38.7223,-9.1393,2024-04-05,Plata
+C06,Rhône Agro Industries,Alimentación,Lyon,Francia,45.764,4.8357,2024-06-12,Plata
+C07,Hanse 3PL GmbH,Retail / Logística,Hamburgo,Alemania,53.5511,9.9937,2024-09-01,Oro
+C08,Po Valley Components,Manufactura,Turín,Italia,45.0703,7.6869,2024-11-18,Bronce
+C09,BeNe Sorting Center,Gestión de residuos,Amberes,Bélgica,51.2194,4.4025,2025-01-27,Plata
+C10,Basque Steel Works,Manufactura,Bilbao,España,43.263,-2.935,2025-03-14,Bronce
+C11,Andalus Fresh Produce,Alimentación,Sevilla,España,37.3891,-5.9845,2025-05-22,Plata
+C12,Bavaria AutoParts AG,Manufactura,Múnich,Alemania,48.1351,11.582,2025-08-04,Oro
+C13,Loire Textile Group,Retail / Logística,Nantes,Francia,47.2184,-1.5536,2025-10-19,Bronce
+C14,Warsaw Parcel Systems,Retail / Logística,Varsovia,Polonia,52.2297,21.0122,2026-02-09,Plata
